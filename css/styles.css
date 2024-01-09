@@ -309,5 +309,41 @@
     gap: 24px;
   }
   /* ==== Portfolio Section Design End */
+
+  /* ===== Newsletter Section Desifn Start ===== */
+.newsletter {
+    padding-bottom: 120px;
+  }
+  .newsletter_wrapper {
+    text-align: center;
+    background-color: rgba(255, 0, 0, 0.052);
+    border-radius: 16px;
+  }
+  .newsletter_wrapper p {
+    margin: 0 auto;
+  }
+  .newsletter_form {
+    width: 648px;
+    margin: 0 auto;
+    padding-top: 48px;
+    padding-bottom: 80px;
+  }
+  .newsletter_form input {
+    padding: 25px 267px 25px 30px;
+    border: 1px solid transparent;
+    outline: none;
+    background-color: #fff;
+    border-radius: 72px 0 0 72px;
+  }
+  .newsletter_form button {
+    padding: 24px 56px;
+    border-radius: 0 72px 72px 0;
+    border: 1px solid transparent;
+    outline: none;
+    background-color: #ff0000;
+    color: #fff;
+    cursor: pointer;
+  }
+  /* ===== Newsletter Section Desifn End ===== */
   
   
