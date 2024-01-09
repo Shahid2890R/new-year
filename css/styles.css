@@ -137,5 +137,58 @@
     color: #fff;
   }
   /* ===== Midnight Party Design End ===== */
+
+  /* ===== Event Section Design Start ===== */
+.event_time {
+    padding-bottom: 120px;
+  }
+  .event_info {
+    width: 1320px;
+    height: 482px;
+    border-radius: 16px;
+    background: linear-gradient(
+      180deg,
+      rgba(255, 0, 0, 0.1) 0%,
+      rgba(255, 0, 0, 0) 100%
+    );
+  }
+  .event_details {
+    padding: 100px 0 22px 0;
+  }
+  .event-text {
+    color: #070211;
+    font-size: 32px;
+    font-weight: 600;
+    line-height: auto;
+    margin-bottom: 25px;
+    text-align: center;
+    font-family: "Inter", sans-serif;
+  }
+  .event_title {
+    color: #ff0000;
+  }
+  .event_btn {
+    text-align: center;
+  }
+  .event_btn button {
+    outline: none;
+    border: 1px solid transparent;
+    border-radius: 8px;
+    padding: 10px 16px;
+    background-color: #ff0000;
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 20;
+    font-weight: 700;
+    font-family: "Inter", sans-serif;
+    cursor: pointer;
+    transition: all linear 0.3s;
+  }
+  .event_btn button:hover {
+    background-color: #fff;
+    color: #ff0000;
+    border: 1px solid #ff0000;
+  }
+  /* ===== Event Section Design End ===== */
   
   
