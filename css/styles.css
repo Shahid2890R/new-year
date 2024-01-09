@@ -265,5 +265,49 @@
     margin: 0 auto;
   }
   /* ===== Sale Section Design End ==== */
+
+  /* ==== Portfolio Section Design Start */
+.portfolio {
+    padding: 120px 0;
+  }
+  .portfolio_info {
+    padding-bottom: 48px;
+  }
+  .portfolio_info h5,
+  .common_subHeading {
+    color: #ff0000;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: auto;
+    font-family: "Inter", sans-serif;
+    text-transform: uppercase;
+  }
+  .portfolio_info h2,
+  .common_heading {
+    color: #070211;
+    font-size: 48px;
+    font-weight: 900;
+    line-height: auto;
+    font-family: "Merriweather", serif;
+    padding: 16px 0 22px 0;
+    text-transform: capitalize;
+  }
+  .portfolio_info p,
+  .common_paragraph {
+    width: 896px;
+    color: rgba(7, 2, 17, 0.6);
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px;
+    font-family: "Inter", sans-serif;
+  }
+  .portfolio_image {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 24px;
+  }
+  /* ==== Portfolio Section Design End */
   
   
