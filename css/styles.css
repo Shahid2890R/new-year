@@ -229,5 +229,41 @@
     padding: 10px 0;
   }
   /* ===== Upcoming Section Design End ===== */
+
+  /* ===== Sale Section Design Start ==== */
+.sale_info {
+    padding-bottom: 64px;
+  }
+  .sale_title {
+    text-align: center;
+    color: #070211;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: auto;
+    font-family: "Inter", sans-serif;
+  }
+  .sale_info h2 {
+    color: #ff0000;
+    text-align: center;
+    font-size: 72px;
+    font-weight: 900;
+    line-height: auto;
+    font-family: "Merriweather", serif;
+    padding: 16px 0 28px 0;
+  }
+  .sale_info h2 span {
+    color: #070211;
+  }
+  .sale_text {
+    color: rgba(7, 2, 17, 0.6);
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 32px;
+    font-family: "Inter", sans-serif;
+    text-align: center;
+    width: 890px;
+    margin: 0 auto;
+  }
+  /* ===== Sale Section Design End ==== */
   
   
